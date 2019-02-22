@@ -1,0 +1,2 @@
+# iobroker_docker
+本项目仅用于docker部署iobroker的初始化配置
